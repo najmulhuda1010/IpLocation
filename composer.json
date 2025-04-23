@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Najmulhuda1010\\Iplocation\\": "src/"
+            "Iplocation\\": "src/"
         }
     },
     "authors": [

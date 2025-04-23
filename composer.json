@@ -1,10 +1,10 @@
 {
-    "name": "najmul/iplocation",
+    "name": "najmulhuda1010/iplocation",
     "description": "This Ip Location",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Iplocation\\": "src/"
+            "Najmulhuda1010\\Iplocation\\": "src/"
         }
     },
     "authors": [
@@ -13,6 +13,6 @@
             "email": "najmul@qsoft.net"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }

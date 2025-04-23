@@ -1,0 +1,18 @@
+{
+    "name": "admin/iplocation",
+    "description": "This Ip Location",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iplocation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Najmul Huda",
+            "email": "najmul@qsoft.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
